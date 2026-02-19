@@ -9,11 +9,6 @@ During this project i learnt:
 - Basics of MLOps by containerizing the application with Docker.
 - Automating scripts using Linux Cron Jobs.
 
-Based on the results customers are divided into 3 groups:
-1. Champions: Customers who shops often and spends lots of money.
-2. Active Regulars: Customers who are active and shops frequently but spends average amounts.
-3. Churned: Customers who have not visited the store for a long time
-
 ## Visualization and Results
 <img width="1093" height="874" alt="Dashboard " src="https://github.com/user-attachments/assets/11bc4e75-6134-4aab-9a59-d62492749a69" />
 - Customer Segmentation Tree Map (Sheet 1): This sheet shows the distribution of different customer segments based on their RFM scores as a Tree Map. I used the data/rfm_results.csv file which contains the segment names for every customer. This map helps to see which segment is the largest.
